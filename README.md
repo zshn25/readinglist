@@ -8,3 +8,11 @@
 [A Survey on Shape Correspondence](https://www.cs.princeton.edu/courses/archive/spring11/cos598A/pdfs/vanKaick10.pdf)
 
 [GMDS](https://www.pnas.org/content/pnas/103/5/1168.full.pdf)
+
+[PointNet](http://stanford.edu/~rqi/pointnet/)
+
+## Courses
+
+Geometry Processing
+
+[Hao Li's course](http://www.hao-li.com/cs621-ss2019/exercises/exercise1.pdf)
